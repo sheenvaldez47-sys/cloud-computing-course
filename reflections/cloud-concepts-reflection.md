@@ -1,14 +1,25 @@
-```
 # Cloud Computing Course Repository
 
-## Student Information
+*A collection of activities, outputs, and learning resources for Cloud Computing*
 
-- Name: Sheen Fhel R. Valdez
-- Course/Section: BSIT 4-G
-- Instructor: Mrs. Jenkielyn Torres
-- School Year: 2026–2027
 
-## Repository Structure
+## 📌 About This Repository
+
+This repo serves as my organized workspace for all course requirements, including:
+
+- Class notes and summaries
+- Lab activities and exercises
+- Mini-projects
+- Reflection papers
+
+## 👤 Student Information
+
+- Name: Sheen Fhel R.Valdez
+- Course/Section: BSIT 4-G 
+- Instructor: [Mrs.Jenkielyn Torres]
+- School Year: 2026-2027
+
+## 📂 Repository Structure
 
 cloud-computing-course/
 ├── activities/
@@ -17,11 +28,10 @@ cloud-computing-course/
 ├── reflections/
 └── README.md
 
-## Topics Covered
+## 📖 Key Concepts Covered
 
 - Cloud Computing Basics
 - Service Models (IaaS, PaaS, SaaS)
 - Deployment Models (Public, Private, Hybrid, Community)
 - Version Control with Git & GitHub
 - Cloud Infrastructure Management
-```
